@@ -1,7 +1,0 @@
-
-body{margin:0;background:#0d130f;font-family:sans-serif;color:white;text-align:center}
-h1{font-weight:500;padding:14px 0;margin:0}
-.gallery{column-count:3;column-gap:6px;max-width:800px;margin:0 auto;padding:0 8px}
-.gallery img{width:100%;border-radius:6px;margin-bottom:6px;display:block}
-@media(max-width:700px){.gallery{column-count:2}}
-@media(max-width:450px){.gallery{column-count:1}}
